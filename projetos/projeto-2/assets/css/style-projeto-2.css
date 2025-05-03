@@ -9,16 +9,16 @@
 
 /* Variáveis */
 :root {
-    --azul_claro: #add8e6;
+    --azul-claro: #add8e6;
     --branco: #ffffff;
-    --fonte_padrao: #'Times New Roman', Times, serif;
-    --preto_transparente: #00000066;
+    --fonte-padrao: #'Times New Roman', Times, serif;
+    --preto-transparente: #00000066;
 }
 
 /* Versão desktop */
 body {
-    background-color: var(--azul_claro);
-    font-family: var(--fonte_padrao);
+    background-color: var(--azul-claro);
+    font-family: var(--fonte-padrao);
     overflow: hidden;
     text-align: center;
 }
@@ -36,7 +36,7 @@ h1:hover {
 main {
     background-color: var(--branco);
     border-radius: 15px;
-    box-shadow: 2px 2px 2px 0px var(--preto_transparente);
+    box-shadow: 2px 2px 2px 0px var(--preto-transparente);
     margin: auto;
     padding: 20px;
     transition: 0.3s ease;
@@ -44,6 +44,6 @@ main {
 }
 
 main:hover {
-    box-shadow: 4px 4px 4px 0px var(--preto_transparente);
+    box-shadow: 4px 4px 4px 0px var(--preto-transparente);
     transition: 0.3s ease;
 }
