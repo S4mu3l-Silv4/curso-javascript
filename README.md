@@ -5,7 +5,7 @@
   <br>
 ## Site no ar:
 
-  https://s4mu3l-silv4.github.io/projetos-curso-javascript/home.html
+  https://s4mu3l-silv4.github.io/curso-javascript/home.html
   <br>
   <br>
 ## Tecnologias utilizadas:
