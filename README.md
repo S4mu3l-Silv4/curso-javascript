@@ -1,6 +1,6 @@
 # Curso de JavaScript:
 
-  Este curso foi desenvolvido como um aprimoramento pessoal, a partir do curso de JavaScript do Gustavo Guanabara, objetivando praticar e demonstrar as minhas habilidades em programação front-end.
+  Este curso foi desenvolvido como um aprimoramento pessoal, objetivando praticar e demonstrar as minhas habilidades em JavaScript.
   <br>
   <br>
 ## Tecnologias utilizadas:
